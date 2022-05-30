@@ -1,5 +1,5 @@
 {
-	"name": "p-cancelable",
+	"name": "p-cancelable-cjs",
 	"version": "4.0.0",
 	"description": "Create a promise that can be canceled (commonjs)",
 	"license": "MIT",
